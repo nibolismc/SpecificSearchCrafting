@@ -3,7 +3,7 @@
 playerdata/
 stats/
 advancements/
-speedrunigt
+speedrunigt/
 
 # Temporäre Session-Dateien (verhindert Git-Konflikte beim Testen)
 session.lock
