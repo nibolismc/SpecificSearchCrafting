@@ -1,0 +1,27 @@
+# --- Minecraft Welt-Dateien ---
+# Enthält Spieler-Inventare und Positionen (Datenschutz bei öffentlichen Repos)
+playerdata/
+stats/
+advancements/
+
+# Temporäre Session-Dateien (verhindert Git-Konflikte beim Testen)
+session.lock
+uid.dat
+
+# Karten-Daten im Spiel (wird automatisch neu generiert)
+map/
+
+# --- Server & Modded Spezifisches (falls vorhanden) ---
+# Backups von Modifikationen oder Server-Plugins
+backup*/
+backups/
+.fabric/
+.mixin.out/
+
+# Log-Dateien
+logs/
+*.log
+
+# --- Betriebssystem-Müll ---
+.DS_Store
+Thumbs.db
