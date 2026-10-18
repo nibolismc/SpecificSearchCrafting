@@ -10,4 +10,4 @@ Crafts you would do while waiting between blaze spawns.
 This includes precrafting (beds, iron axe, ...) in the Bastion while waiting for final piglin trades (last piece of obsidian) as well as overlapping 2x2 crafts (nether bricks, glowstone, wool, ...) and inventory clearing while pearling to the fortress.
 
 ## 3. Blaze Kill Overlap Crafts
-Practice overlapping 2x2 crafts between Blaze hits. Use "instant spawn Blaze Cycles" and "Auto-Refill Inventory" for unlimited crafting ressources to infinitely fight blaze waves while practicing 2x2 crafting.
+Practice overlapping 2x2 crafts between Blaze hits. Use "instant spawns Blaze Cycles" and "Auto-Refill Inventory" for unlimited crafting resources to infinitely fight blaze waves while practicing 2x2 crafting.
