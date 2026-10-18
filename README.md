@@ -1,6 +1,6 @@
 # SpecificSearchCrafting
 
-Practice Map for Search Crafting in very specific scenerios such as:
+Practice Map for Search Crafting in very specific scenarios such as:
 
 ## 1. Spawner Crafts
 Crafts you would do while waiting between blaze spawns.
